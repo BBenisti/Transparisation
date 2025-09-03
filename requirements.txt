@@ -1,0 +1,6 @@
+pandas
+openpyxl
+xlrd
+xlsxwriter
+python-dateutil
+pywin32
